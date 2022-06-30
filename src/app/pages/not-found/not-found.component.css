@@ -1,0 +1,20 @@
+.not_found__container {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.not_found__container_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.not_found__container_content h1{
+    font-size: 4rem;
+}
+
+.not_found__container_content p{
+    font-size: 2rem;
+}
